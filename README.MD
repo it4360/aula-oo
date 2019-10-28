@@ -443,3 +443,7 @@ namespace
 ```
 
 Note como você possui várias formas de um mesmo objeto para `Treinador` e `Vilao`, pois ambos possuem características em comum, mas a `Medica`, não possui todas as características, portanto nós criamos uma interface e definimos que apenas as classe que possuem aqueles comportamentos devem implementar as interface.
+
+# Exercício:
+
+Pesquise sobre o mundo de Pokemon e faça uma abstração de todas as classes que compõe esse ecosistema bem como todos os personagens e crie todas as classes usando todos os conceitos mostrados aqui.
